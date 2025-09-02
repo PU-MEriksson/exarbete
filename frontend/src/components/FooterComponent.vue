@@ -91,7 +91,7 @@ export default {
 }
 
 .bokadirekt {
-  margin-top: 8px;
+  margin-top: 32px;
   width: 100%;
   padding: 8px 16px;
   font-family: "Playfair Display", serif !important;
